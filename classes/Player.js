@@ -16,9 +16,9 @@ class Player{
         this.name=name
         this.times=times
     }
-    recordTime(start,end){
-        let totalDuration=end-start
-        this.times.push(totalDuration)
+    recordTime(time){
+       
+        this.times.push(time)
     }
     showStats(){
         let totalTime=this.times.reduce((x,y)=>x+y)

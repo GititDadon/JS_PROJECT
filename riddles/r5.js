@@ -8,5 +8,10 @@ export default {
     id: 5,
     name: "JavaScript Mystery",
     taskDescription: "What is the result of typeof null in JavaScript?",
-    correctAnswer: "object"
+    correctAnswer: "object",
+    difficulty:'hard',
+    timeLimit:6,
+    hint:"starts with 'O' "
+
+
 };

@@ -8,5 +8,10 @@ export default {
     id: 3,
     name: "Think Outside the Box",
     taskDescription: "What has keys but cannot open locks? (one word)",
-    correctAnswer: "piano"
+    correctAnswer: "piano",
+    difficulty:'medium',
+    timeLimit:5,
+    hint:'its a musical instrument'
+
+
 };

@@ -8,5 +8,9 @@ export default{
     id:2,
     name:"Medium Math",
     taskDescription:"What is 5+3*2-1",
-    correctAnswer:'10'
+    correctAnswer:'10',
+    difficulty:'easy',
+    timeLimit:5,
+    hint:'add () according to math rules'
+
 }
