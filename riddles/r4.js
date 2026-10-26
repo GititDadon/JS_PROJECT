@@ -4,3 +4,9 @@
 // - name (string)
 // - taskDescription (string, the riddle text shown to the player)
 // - correctAnswer (string)
+export default {
+    id: 4,
+    name: "Crack the Pattern",
+    taskDescription: "Find the next number: 2, 6, 12, 20, 30, ?",
+    correctAnswer: "42"
+};

@@ -4,3 +4,9 @@
 // - name (string)
 // - taskDescription (string, the riddle text shown to the player)
 // - correctAnswer (string)
+export default{
+    id:2,
+    name:"Medium Math",
+    taskDescription:"What is 5+3*2-1",
+    correctAnswer:'10'
+}
