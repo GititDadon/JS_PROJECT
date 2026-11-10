@@ -1,0 +1,76 @@
+{
+  "riddles": [
+    {
+      "id": 1,
+      "name": "Easy Math",
+      "taskDescription": "What is 5+3",
+      "correctAnswer": "8",
+      "difficulty": "easy",
+      "timeLimit": 10,
+      "hint": "bigger than 7 smaller than 9"
+    },
+    {
+      "id": 2,
+      "name": "Medium Math",
+      "taskDescription": "What is 5+3*2-1",
+      "correctAnswer": "10",
+      "difficulty": "easy",
+      "timeLimit": 5,
+      "hint": "add () according to math rules"
+    },
+    {
+      "id": 3,
+      "name": "Think Outside the Box",
+      "taskDescription": "What has keys but cannot open locks? (one word)",
+      "correctAnswer": "piano",
+      "difficulty": "medium",
+      "timeLimit": 5,
+      "hint": "its a musical instrument"
+    },
+    {
+      "id": 4,
+      "name": "Crack the Pattern",
+      "taskDescription": "Find the next number: 2, 6, 12, 20, 30, ?",
+      "correctAnswer": "42",
+      "difficulty": "medium",
+      "timeLimit": 7,
+      "hint": "find the legality"
+    },
+    {
+      "id": 5,
+      "name": "JavaScript Mystery",
+      "taskDescription": "What is the result of typeof null in JavaScript?",
+      "correctAnswer": "object",
+      "difficulty": "hard",
+      "timeLimit": 6,
+      "hint": "starts with 'O' "
+    }
+  ],
+  "players": [
+    {
+      "name": "gitit",
+      "lowestTime": 3.614,
+      "id": 1
+    },
+    {
+      "name": "yahel",
+      "lowestTime": 0,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "hila",
+      "lowestTime": 5.255
+    },
+    {
+      "name": "lihi",
+      "lowestTime": null,
+      "id": 4
+    },
+    {
+      "name": "lina",
+      "lowestTime": 4.712,
+      "id": 5
+    }
+  ]
+}
