@@ -6,10 +6,10 @@ import Riddle from "./classes/Riddle.js";
 import Player from "./classes/Player.js";
 
 import {
-    createRiddle,
-    deleteRiddle,
     getAllRiddles,
-    updateRiddle
+    createRiddle,
+    updateRiddle,
+    deleteRiddle
 } from "./API/riddlesApi.js";
 
 import {
